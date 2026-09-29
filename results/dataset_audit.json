@@ -1,0 +1,18 @@
+{
+  "raw_rows": 7037983,
+  "rows_after_cleaning": 7037983,
+  "columns": [
+    "Sport",
+    "TotPkts",
+    "TotBytes",
+    "SrcPkts",
+    "DstPkts",
+    "SrcBytes",
+    "Target"
+  ],
+  "exact_duplicate_rows": 7023509,
+  "unique_complete_rows": 62959,
+  "normal_rows": 6634581,
+  "attack_rows": 403402,
+  "missing_values_after_cleaning": 0
+}

@@ -1,0 +1,8 @@
+{
+  "samples": 200,
+  "mean_spearman": 0.9705714285714286,
+  "median_spearman": 1.0,
+  "top1_agreement": 0.975,
+  "top3_overlap": 0.98,
+  "perturbation": 0.01
+}

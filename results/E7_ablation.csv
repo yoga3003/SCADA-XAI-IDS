@@ -1,0 +1,6 @@
+configuration,purpose,f1
+RF baseline,Clean detection,0.9997838772422736
+RF + DNN stacking,Hybridization,0.9997838772422736
+RF 10k real-only,Limited-data baseline,0.9989193862113681
+RF 10k + GAN,Generative augmentation,0.9990277627741169
+RF + perturbation-aware training,Robustness adaptation,0.986327914737862
